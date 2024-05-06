@@ -9,6 +9,7 @@
     </div>
     <h2>Features</h2>
     <ul>
+       <li><strong>Alpha-version: 1.0</strong></li>
        <li><strong>Last-version:</strong> It was build in version 3 of python. </li>
       <li><strong>Command Execution:</strong> It can execute commands specified via the -e or --execute option. This allows the tool to run commands on the target system.</li>
       <li><strong>File Upload:</strong> It can upload files to the target system using the -u or --upload option. This feature enables transferring files between the local and remote machines.</li>  
