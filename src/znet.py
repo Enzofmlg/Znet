@@ -116,7 +116,7 @@ d8888888888      888    Y888 8888888888     888
                                             netcat.py -t 192.168.1.108 -p 5555 -l -c # COMMAND SHELL
                                             netcat.py -t 192.168.1.108 -p 5555 -l -u=mytest.txt # UPLOAD TO FILE
                                             netcat.py -t 192.168.1.108 -p 5555 -l -e=\"cat/etc/passwd\" # EXECUTE COMMAND
-                                            echo 'ABC' |./netcat.py -t 192.168.1.108 -p 135 # ECHO TEXT TO SERVER PORT 135
+                                            echo 'ABC' |./znet.py -t 192.168.1.108 -p 135 # ECHO TEXT TO SERVER PORT 135
                                             netcat.py -t 192.168.1.108 -p 5555 # CONNECT TO SERVER
     '''))
     parser.add_argument('-c', '--command',
