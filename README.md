@@ -7,6 +7,7 @@
       <h2>Description:</h2>
       <p>Built to replace Netcat, Z Net is a personal and simple (but powerful) tool designed for reading and sending data over network connections, utilizing the TCP or UDP protocol.</p>
     </div>
+    <a>[ Project Archived ]</a>
     <h2>Features</h2>
     <ul>
        <li><strong>Alpha-version: 1.0</strong></li>
